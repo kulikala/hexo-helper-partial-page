@@ -1,0 +1,26 @@
+{
+  "name": "hexo-helper-partial-page",
+  "version": "1.0.0",
+  "description": "Hexo helper plugin for including and rendering partial content.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kulikala/hexo-helper-partial-page.git"
+  },
+  "keywords": [
+    "hexo",
+    "helper",
+    "partial page",
+    "template"
+  ],
+  "author": {
+    "name": "kulikala",
+    "url": "http://github.com/kulikala"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kulikala/hexo-helper-partial-page/issues"
+  },
+  "homepage": "https://github.com/kulikala/hexo-helper-partial-page#readme",
+  "dependencies": {}
+}
