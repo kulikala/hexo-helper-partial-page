@@ -20,7 +20,7 @@ and outputs rendered HTML directly at the helper tag position.
 renders the file with matching renderer plugin,
 and outputs rendered HTML directly at the helper tag position.
 
-See [Usage](#Usage) section for more details.
+See [Usage](#usage) section for more details.
 
 ## Installation
 
