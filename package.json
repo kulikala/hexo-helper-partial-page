@@ -1,6 +1,6 @@
 {
   "name": "hexo-helper-partial-page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hexo helper plugin for including and rendering partial content.",
   "main": "index.js",
   "repository": {
